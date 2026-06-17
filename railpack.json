@@ -1,4 +1,6 @@
 {
   "$schema": "https://schema.railpack.com",
-  "phpExtensions": ["grpc"]
+  "packages": {
+    "apt": ["php8.2-grpc"]
+  }
 }
